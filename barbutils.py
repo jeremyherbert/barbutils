@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 import struct
 import numpy as np
 

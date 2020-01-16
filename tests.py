@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+
 import os
 from fixtures.testdata import barb_fixtures
 from barbutils import generate_barb, load_barb

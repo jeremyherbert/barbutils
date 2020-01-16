@@ -1,6 +1,8 @@
 # barbutils
 
-BARB files are binary arbitrary waveform files used by Agilent/Keysight waveform generators (also known as "function generators"). Files generated with this python script have been tested on a 33600-series generator.
+BARB files are binary arbitrary waveform files used by Agilent/Keysight waveform generators (also known as "function generators"). Files generated with this python script have been tested on a 33600-series generator. Script requires python 3.6+ and numpy.
+
+Warning: You likely can generate files which will be outside of the usable range of your device (for example, a sample rate too high). Use at your own risk.
 
 ---
 
